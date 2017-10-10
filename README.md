@@ -1059,3 +1059,4 @@ pod 'JXPhotoBrowser'
 # 源码
 GitHub地址: [PhotoBrowser](https://github.com/JiongXing/PhotoBrowser)
 若使用过程中有任何问题，请拼命issues我。 ^_^
+还是有点小问题！
